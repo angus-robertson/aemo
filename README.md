@@ -1,6 +1,6 @@
 # Introduction to energy markets and the National Electricity Market (NEM)
 
-This repository contains all the supporting data, analysis and visualisations for the **"Introduction to Energy Markets and the National Electricity Market"** presentation. The materials are intended to provide a comprehensive overview of energy market fundamentals, market operations, and key insights into the Australian National Electricity Market (NEM).
+This repository contains all the supporting data, analysis and visualisations for the **Introduction to Energy Markets and the National Electricity Market** presentation. The materials are intended to provide a comprehensive overview of energy market fundamentals, market operations, and key insights into the Australian National Electricity Market (NEM).
 
 
 ## Getting started
@@ -23,11 +23,16 @@ uv run src/6_smrc_stack/main.py
 ```
 
 ## Contents
+ 
+### Charts
 
-1. Map of key electricity grids in Australia + key stats
+#### 1. Electricity consumption per capita vs GDP per capita (TODO)
 
-NEM, SWIS, NWIS, DKIS, NWPS
 
+#### 2. Map of Australia's electricity grids (TODO)
+Map showing the geographic location of key electricity grids, including: NEM, SWIS, NWIS, DKIS, NWPS.
+
+Should be accompanied by a supporting table, including:
 - installed capacity (GW)
 - demand (TWh/yr)
 - transmission lines (km)
@@ -36,20 +41,42 @@ NEM, SWIS, NWIS, DKIS, NWPS
 - regulatory bodies
 - market operator
 
+#### 3. Detailed map of the NEM (TODO)
+Map showing the NEM regions and interconnectors.
 
-2. Map of the NEM + 5 regions
-purpose: key overview and history of the NEM
 
-3. Governance of the NEM
-- diagram showing governance relationships and key legislation
+#### 4. Bid stack for the NEM
+Chart showing an actual bid stack a given 5-minute interval in the NEM. 
+- x-axis: cumulative bids (MW), y-axis: offer price ($/MWh), colored by fuel type
 
-4. Market participants of the NEM
-purpose: market-based vs monopology 
-- diagram of value chain (e.g. generators, transmission, distribution, retail, consumers)
+#### 5. SRMC stack NEM generators
+Chart showing the estimated SMRC stack for current generators in the NEM (perhaps could match generators the were operating in the selected 5-minute window above, but does introduction some fuel cost timeing issues). 
+- x-axis: cumulative bids (MW), y-axis: SMRC ($/MWh), colored by fuel type
 
-5. Bid stack for the NEM 
+#### 6. Installed generation capacity
+Stacked bar chart showing installed generation capacity by technology over time.
+- x-axis: time (years), y-axis: installed capacity (GW), colored by fuel type
 
-6. SRMC stack for the NEM
+#### 7. Dispatched electricity by technology
+Stacked bar chart showing dispatched electricity by technology over time.
+- x-axis: time (years), y-axis: dispatched capacity (GW), colored by fuel type
 
-5. LCOE date for different technologies
+#### 8. Price setting by technology
+Stacked bar chart showing price setter by technology over time.
+- x-axis: time (years), y-axis: percentage of time price setter, colored by fuel type
+
+#### 8. LCOEs for different technologies
+
+
+### Other charts
+
+- weather dependency of renewables? (dispatchable vs non, limited by weather dependence). See NEM review for inspiration.
+- emissions reduction targets and electricity share of emissions
+- emissions intensity of generators in the NEM? 
+- capacity factors / LCOEs for various technologies
+- average availability of coal capacity by age of generator, % availability
+- monthly average whole prices, A$/MWh
+- coal capacity and scheduled retirements
+- duck curve
+- transmission ISP projects 
 
