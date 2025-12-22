@@ -1,0 +1,289 @@
+IASR_ID, DUID, REGION_ID, CONNECTION_POINT_ID, STATION_ID, STATION_NAME
+BW01, BW01, NSW1, NBAY1, BAYSW, Bayswater Power Station
+BW02, BW02, NSW1, NBAY2, BAYSW, Bayswater Power Station
+BW03, BW03, NSW1, NBAY3, BAYSW, Bayswater Power Station
+BW04, BW04, NSW1, NBAY4, BAYSW, Bayswater Power Station
+CALL_B_1
+CALL_B_2, CALL_B_2, QLD1, QCAB2, CALLIDE, Callide Power Station
+CPP_3, CPP_3, QLD1, QCAC3, CALLIDEC, CALLIDE C NETT OFF
+CPP_4, CPP_4, QLD1, QCAC4, CALLIDEC, CALLIDE C NETT OFF
+
+
+ANGAS1
+ANGAS2
+BIPS1_01
+BIPS1_02
+BIPS1_03
+BIPS1_04
+BIPS1_05
+BIPS1_06
+BIPS1_07
+BIPS1_08
+BIPS1_09
+BIPS1_10
+BIPS1_11
+BIPS1_12
+BOLIVPS1_1
+BOLIVPS1_2
+BOLIVPS1_3
+BOLIVPS1_4
+CPSA_GT1
+CPSA_GT2
+CPSA_ST
+DDPS1_GT1
+DDPS1_GT2
+DDPS1_GT3
+DDPS1_ST
+AGLHAL01
+AGLHAL02
+AGLHAL03
+AGLHAL04
+AGLHAL05
+AGLHAL06
+AGLHAL07
+AGLHAL08
+AGLHAL09
+AGLHAL10
+AGLHAL11
+AGLHAL12
+AGLHALRE
+OsborneGT
+OsborneST
+PPCCGTGT1
+PPCCGTGT2
+PPCCGTST
+POR01-1
+POR01-2
+POR01-3
+PTSTAN1_1
+PTSTAN1_2
+SNAPPER1_1
+SNAPPER1_2
+SNAPPER1_3
+SNAPPER1_4
+SNAPPER1_5
+AGLSOM01
+AGLSOM02
+AGLSOM03
+AGLSOM04
+Tallawarra B
+TVCC201_GT
+TVCC201_ST
+BOGONG1
+BOGONG2
+MCKAY11
+MCKAY12
+MCKAY13
+MCKAY14
+MCKAY15
+MCKAY16
+LI111-1
+LI112-2
+LI113-3
+CA111-1
+CA112-2
+WY111-1
+WY111-2
+WY111-3
+GO181-1
+GO182-2
+GO183-3
+GUTHEGA1
+GUTHEGA2
+LM111-1
+WI111-1
+MURRAY01
+MURRAY02
+MURRAY03
+MURRAY04
+MURRAY05
+MURRAY06
+MURRAY07
+MURRAY08
+MURRAY09
+MURRAY10
+MURRAY11
+MURRAY12
+MURRAY13
+MURRAY14
+PO161-1
+PO162-2
+PO163-3
+PO164-4
+PO165-5
+PO166-6
+SHGEN01
+SHGEN02
+SHGEN03
+SHGEN04
+TA111-1
+TA111-2
+TA111-3
+TA112-4
+TA112-5
+TA112-6
+TR111-1
+TR111-2
+TR112-3
+TR112-4
+TUMUT3_01
+TUMUT3_02
+TUMUT3_03
+TUMUT3_04
+TUMUT3_05
+TUMUT3_06
+TU111-1
+TU112-2
+TU113-3
+TU114-4
+TU115-5
+TUMUT1_01
+TUMUT1_02
+TUMUT1_03
+TUMUT1_04
+TUMUT2_01
+TUMUT2_02
+TUMUT2_03
+TUMUT2_04
+WKIEWA1_1
+WKIEWA1_2
+WKIEWA2_1
+WKIEWA2_2
+Tully Sugar Mill Biomass
+Kidston Pumped Storage Hydro 1
+Kidston Pumped Storage Hydro 2
+SNO2PH01
+SNO2PH02
+SNO2PH03
+SNO2PH04
+SNO2PH05
+SNO2PH06
+Broadsound Solar Farm
+Bundaberg Solar Farm
+Culcairn Solar Farm
+Goorambat East Solar Farm
+Lockhart Hybrid Facility - Solar
+MANSF2
+QPSF
+Riverina Solar Farm
+Stubbo Solar Farm
+Tilbuster Solar Farm
+GSWF1B
+MacIntyre Wind Farm
+Rye Park Wind Farm
+Wambo Wind Farm
+Aldoga Solar Farm
+Aramara Solar Farm
+Banksia Solar Farm
+Derby Solar Farm
+Frasers Solar Farm
+Goulburn River Solar Farm
+Horsham Solar Farm
+Maryvale Solar Farm
+Mortlake Energy Hub Solar Farm
+Munna Creek Solar Farm
+New England Solar Farm 2
+Punch's Creek Renewable Energy Solar Farm
+GBWF1
+Uungula Wind Farm
+Woolsthorpe Wind Farm
+Clements Gap BESS
+Eraring Big Battery
+Koorangie Energy Storage System
+LaTrobe Valley BESS
+Liddell BESS
+Lockhart Hybrid Facility - Battery
+Melbourne Renewable Energy Hub - Side A
+QPBESS
+Tarong BESS
+Templers BESS
+ULBESS
+Aldoga BESS Stage 1
+Brendale BESS
+Bungama Solar BESS
+Eraring Big Battery 2
+GBBATT1
+Gnarwarre BESS
+Limondale BESS
+Mannum BESS
+Maryvale Solar Farm BESS
+Mortlake Battery
+Mortlake Energy Hub BESS
+Mt Fox BESS
+New England Solar Farm BESS
+ORANA
+Richmond Valley BESS
+Silver City Energy Storage
+Smithfield BESS
+Stanwell BESS
+Swanbank BESS
+TRGBESS
+Wooreen Energy Storage System
+Kogan Gas
+Fulham Solar Farm
+Solar River Solar Farm
+Coppabella Wind Farm
+Derby Solar Project BESS
+Fulham Solar Farm BESS
+Goulburn River BESS
+Hallett BESS
+Horsham Solar Farm BESS
+Limestone Coast West BESS
+Solar River Solar Farm BESS
+Springvale Energy Hub BESS
+Mornington BESS
+Tamworth BESS
+Tamworth BESS 2
+QEJP - Borumba
+Broadsound BESS
+Calala BESS 1
+Calala BESS 2
+Glanmire Solar Farm BESS
+Ravenswood BESS
+Bullyard Solar Farm
+Glanmire Solar Farm
+Ravenswood Solar Farm
+Lockyer Valley GT
+Boulder Creek Wind Farm
+Inverleigh Wind Farm
+Port Latta Wind Farm
+Valley of the Winds Wind Farm
+Woolooga BESS
+Supernode BESS 1
+Supernode BESS 2
+Golden Plains West Wind Farm
+Lotus Creek Wind Farm
+Barnawartha Solar Farm BESS
+Barwon Solar Farm BESS
+Bungama BESS
+Elaine Solar Farm BESS
+Ganymirra Solar Power Station BESS
+Junction Rivers Wind Farm BESS
+Majors Creek Solar Power Station BESS
+West Mokoan Solar Farm BESS
+Griffith BESS
+Stoney Creek BESS
+Barnawartha Solar Farm
+Barwon Solar Farm
+Campbells Forest Solar Farm
+Elaine Solar Farm
+Ganymirra Solar Power Station
+Hopeland Solar Farm
+Majors Creek Solar Power Station
+Sandy Creek Solar Farm
+Sandy Creek BESS
+West Mokoan Solar Farm
+Phoenix Pumped Hydro Project
+Goyder North Wind Farm
+Junction Rivers Wind Farm
+Kentbruck Green Power Hub Wind Farm
+Palmer Wind Farm
+Spicers Creek Wind Farm
+Thunderbolt Wind Farm
+Haughton Solar Farm Stage 2
+Lancaster Solar Farm
+Bennetts Creek BESS
+Northern Midlands Solar Farm
+Hay Sun Farm
+Kiamal BESS
+Pine Lodge BESS
